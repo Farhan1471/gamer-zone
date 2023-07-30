@@ -164,18 +164,65 @@
 }
 /* career styles */
 .career{
+    display: flex;
     background-image: url(../images/Group\ 14.png);
     background-color: ;
 }
+.career-section{
+    margin-left: 50px;
+    margin-right: 400px;
+}
+.career img{
+    width: 100%;
+}
 .career-heading{
-
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
 }
 .career-column{
-
+    display: flex;
 }
 .career-name{
-
+    text-align: left;
+    margin-right: 50px;
 }
 .career-place{
-
+    text-align: right;
+}
+.btn-posiotions{
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    background: #FFF;
+    font-size: 15px; 
+    font-weight: 600; 
+    color: #F948B2;
+    border: none;
+}
+/* footer style */
+.footer{
+    background-color: #0B0223;
+    color: #FFF;
+}
+.gamer-logo{
+    justify-content: center;
+}
+.nav-button{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 40px;
+}
+.last-thing{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 75px;
+}
+.copyright{
+    text-align: center;
 }
