@@ -1,0 +1,181 @@
+.header{
+    background-color: #FFF;
+}
+.header-nav{
+    display: flex;
+}
+.gamer-logo{
+    display: flex;
+}
+.gamer-logo img{
+    width: 86.041px;
+    height: 40px;
+    margin: 42px 0px 0px 130px;
+}
+.gamer{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700; 
+    margin: 38px 0px 0px 20px;
+}
+.gamers-g{
+    color: #FF42A5;
+}
+.nav-part{
+    display: flex;
+}
+.about-us{
+    margin: 54px 32px 0px 500px;
+}
+.developers{
+    margin: 54px 32px 0px 0px;
+}
+.follow{
+    border-radius: 8px;
+    border: none;
+    background: rgba(11, 2, 35, 0.10);
+    width: 262px;
+    height: 56px;
+    margin: 40px 30px 55px 0px;
+}
+
+/* Play Like GOAT Section */
+.whole-goat{
+    display: flex;
+}
+.goat{
+    background-image: url(../images/Group\ 14.png);
+    width: 901px;
+    height: 700px;
+    /* justify-content: center; */
+    text-align: center;
+}
+.goat-btn{
+
+}
+.sign-in{
+    /* display: inline-flex; */
+    padding: 15px 28px;
+    border: none;
+    /* align-items: flex-start; */
+    gap: 10px;
+    border-radius: 48px;
+    background-color: #FF42A5;
+    color: #FFF;
+    /* font-family: Work Sans; */
+    font-size: 12px;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+}
+.go-rogue{
+        /* display: inline-flex; */
+        padding: 15px 35px;
+        border: none;
+        /* align-items: flex-start; */
+        gap: 10px;
+        border-radius: 48px;
+        background-color: #4EC5F7;
+        color: #FFF;
+        /* font-family: Work Sans; */
+        font-size: 12px;
+        font-weight: 600;
+        /* text-transform: uppercase; */
+    }
+    /* we are gamer part */
+.we-r-gamer{
+    display: flex;
+    background-color: #ff42a508;
+    text-align: right;
+    padding-right: 150px;
+}
+.gamer-decoration{
+    font-weight: 700; 
+    font-size: 35px;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 24px 0px 0px 52px;
+}
+.gamer-description{
+    color: #534C64; 
+    font-weight: 400; 
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0px 0px 32px 0px;
+}
+.gamer-last{
+    font-weight: 700; 
+    color: #534C64; 
+    font-weight: 700; 
+    font-size: 32px;
+}
+/* vedios all thing */
+.video-heading{
+    text-align: center;
+}
+.online-games{
+
+}
+.funny-video{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    font-weight: 700;
+}
+.card{
+    display: flex;
+    width: 342px;
+    height: 400px;
+}
+.big-poster{
+    margin-top: 120px;
+    display: flex;
+}
+.big-poster img{
+    margin: 0px;
+    gap: 0;
+}
+.rect-img{
+    margin: 0px;
+    position: relative;
+    bottom: 300px;
+    right: 140px;
+}
+.poster-heading{
+    text-align: right; 
+    font-size: 40px; 
+    font-weight: 600; 
+    /* line-height: 60px; */
+    padding-right: 150px;
+}
+.play-instatly{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.poster-details{
+    margin: 24px 120px 0px 200px;
+    text-align: right;
+}
+/* career styles */
+.career{
+    background-image: url(../images/Group\ 14.png);
+    background-color: ;
+}
+.career-heading{
+
+}
+.career-column{
+
+}
+.career-name{
+
+}
+.career-place{
+
+}
