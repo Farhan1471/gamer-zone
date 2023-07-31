@@ -4,6 +4,9 @@
 .header-nav{
     display: flex;
 }
+.goat{
+    text-align: center;
+}
 .gamer-logo{
     display: flex;
 }
@@ -110,7 +113,7 @@
     font-weight: 700; 
     font-size: 32px;
 }
-/* vedios all thing */
+/* videos all thing */
 .video-heading{
     text-align: center;
 }
@@ -129,6 +132,8 @@
     display: flex;
     width: 342px;
     height: 400px;
+    gap: 50px;
+    margin-left: 120px;
 }
 .big-poster{
     margin-top: 120px;
@@ -203,6 +208,81 @@
     color: #F948B2;
     border: none;
 }
+
+/* different game section */
+.game-type{
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    width: 1400px;
+    height: 350px;
+}
+.game-type-one{
+    padding-top: 100px;
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+    margin-top: 120px;
+    margin-bottom: 25px;
+}
+.action-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.adventure-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.arcade-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.educational-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.word-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.game-type-two{
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+    margin-bottom: 115px;
+}
+.role-palying-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.music-and-audio-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.puzzle-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
+.strategy-games{
+    display: flex;
+    border-radius: 50px;
+    background: #FFF;
+    gap: 18px;
+}
 /* footer style */
 .footer{
     background-color: #0B0223;
@@ -217,6 +297,27 @@
     gap: 80px;
     margin-top: 40px;
 }
+/* social media section */
+.social-media{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    margin: 5px 2px;
+  }
+  
+  .social-media:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
 .last-thing{
     display: flex;
     gap: 30px;
@@ -225,4 +326,5 @@
 }
 .copyright{
     text-align: center;
+    padding-bottom: 100px;
 }
